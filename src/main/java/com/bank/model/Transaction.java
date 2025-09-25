@@ -27,7 +27,6 @@ public class Transaction {
     @Column(name = "timestamp")
     private LocalDateTime timestamp;
 
-    // Конструкторы, геттеры и сеттеры
 
     public Transaction() {
     }

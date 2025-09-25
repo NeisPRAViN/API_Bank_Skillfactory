@@ -7,7 +7,6 @@ public class TransferRequest {
     private Long recipientId;
     private BigDecimal amount;
 
-    // Геттеры и сеттеры
 
     public Long getSenderId() {
         return senderId;

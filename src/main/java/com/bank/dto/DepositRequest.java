@@ -6,7 +6,6 @@ public class DepositRequest {
     private Long accountId;
     private BigDecimal amount;
 
-    // Геттеры и сеттеры
 
     public Long getAccountId() {
         return accountId;
